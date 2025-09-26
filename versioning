@@ -8,7 +8,7 @@ class Versioning:
         print(f"Projekt '{project_name}' wurde erstellt.")
 
     def add_changes(self):
-        print("Änderungen hinzugefügt.")
+        print("Änderungen wurden hinzugefügt.")
 
     def commit_changes(self, message):
         print(f"Änderungen mit Nachricht '{message}' wurden festgeschrieben.")
