@@ -1,0 +1,29 @@
+#!/usr/bin/env python3
+import os
+import sys
+
+class Versioning:
+    def init_project(self, project_name):
+        os.makedirs(project_name, exist_ok=True)
+        print(f"Projekt '{project_name}' wurde erstellt.")
+
+    def add_changes(self):
+        print("Änderungen hinzugefügt.")
+
+    def commit_changes(self, message):
+        print(f"Änderungen mit Nachricht '{message}' wurden festgeschrieben.")
+
+if __name__ == '__main__':
+    v = Versioning()
+    if len(sys.argv) < 2:
+        print("Bitte geben Sie einen Befehl ein.")
+        sys.exit(1)
+    command = sys.argv[1]
+    if command == "init":
+        v.init_project(sys.argv[2])
+    elif command == "add":
+        v.add_changes()
+    elif command == "commit":
+        v.commit_changes(sys.argv[2])
+    else:
+        print("Befehl nicht erkannt.")
