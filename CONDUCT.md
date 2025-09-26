@@ -9,4 +9,4 @@ Wir erwarten von allen Beitragenden respektvolles und rücksichtvolles Verhalten
 3. Arbeiten Sie gemeinsam an Lösungen und fördern Sie eine inklusive Diskussion.
 
 ## Konsequenzen
-Verstöße gegen diesen Verhaltenskodex können Konsequenzen nach sich ziehen, von einer Warnung bis zum Ausschluss aus dem Projekt. Wir behalten uns vor, solche Entscheidungen im besten Interesse der Gemeinschaft zu treffen.
+Verstöße gegen diesen Verhaltenskodex können Konsequenzen nach sich ziehen, von einer Warnung bis zum Ausschluss aus dem Projekt. Wir behalten uns vor, solche Entscheidungen im besten Interesse der Gemeinschaft zu treffen. Bei Fragen oder Bedenken wenden Sie sich bitte an den Projektleiter.
